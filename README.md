@@ -37,5 +37,9 @@ This project involved planning, assembling, and configuring a custom desktop sys
 - Create a clean, organized internal layout
 - Build a reliable platform for gaming, productivity, and future upgrades
 
+## Media
+Build photos:
+- `IMG_9598.jpeg
+
 ## Notes
 This project reflects hands-on experience with hardware assembly, low-level system configuration, and practical troubleshooting in a full custom PC build environment.
